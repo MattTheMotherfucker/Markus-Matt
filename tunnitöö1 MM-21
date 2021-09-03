@@ -1,0 +1,16 @@
+if (rahakott < tootehind){
+    console.log('sa ei saa osta')
+}
+console.log ('sa saad osta')
+
+
+VM3931:4 sa saad osta
+undefined
+rahkott= Math.random()*40;
+tooteHind=20
+if (rahakott>=tootehind)
+ console.log("Saad osta");
+else
+ console.log("Ei saa osat");
+
+VM4379:4 Saad osta
